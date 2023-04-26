@@ -10,6 +10,7 @@ public class Sayimatik {
     public int minSayi;
 // these lines are  just for third   0619 testing
 
+// these lines are  just for fourth 06 31  testing
 
     public int maksSayi;
 

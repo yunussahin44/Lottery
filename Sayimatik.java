@@ -2,7 +2,7 @@ package the_lottery;
 
 public class Sayimatik {
 
-
+//  these lines are just for testing
     public int kacRakamli;
 
 

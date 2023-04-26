@@ -13,6 +13,7 @@ public class Sayimatik {
 // these lines are  just for fourth 06 31  testing
 //  07 11 test
     public int maksSayi;
+    // 07 14  roll back test
 
 
     public int [] sayiArray;

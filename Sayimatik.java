@@ -3,8 +3,9 @@ package the_lottery;
 public class Sayimatik {
 
 //  these lines are just for testing
-    public int kacRakamli;
 
+    public int kacRakamli;
+// these lines are  just for second  0612 testing
 
     public int minSayi;
 

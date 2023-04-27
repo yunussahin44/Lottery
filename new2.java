@@ -1,5 +1,8 @@
 package the_lottery;
+<<<<<<< HEAD
 
+=======
+>>>>>>> yunus
 public class new2 {
 }
 // 06 42 test

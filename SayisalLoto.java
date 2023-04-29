@@ -5,7 +5,6 @@ import java.util.Scanner;
 
 public class SayisalLoto {
 
-// these lines are  just for fourth 06 31  testing
 
     static int [] bilett;
 
